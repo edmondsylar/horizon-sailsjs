@@ -6,7 +6,7 @@
  */
 
 module.exports = {
-  
+
     view:function(req, res){
 
       res.redirect('/packages');
